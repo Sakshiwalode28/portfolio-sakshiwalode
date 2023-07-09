@@ -17,7 +17,7 @@ export const GridContainer = styled.section`
   column-gap: 6rem;
   row-gap: 6rem;
   @media ${(props) => props.theme.breakpoints.md} {
-    padding: 0;
+    padding: 0 .1rem;
   }
   @media ${(props) => props.theme.breakpoints.sm} {
     display: flex;
