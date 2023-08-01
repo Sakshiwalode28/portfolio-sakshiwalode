@@ -69,7 +69,7 @@ export const Technologies_known = [
   {name: 'C++', logo:'https://www.svgrepo.com/show/353614/c-plusplus.svg'},
   {name: 'Python.js', logo:'https://www.svgrepo.com/show/354238/python.svg'},
   {name:'MySQL', logo :'https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png'},
-  {name: 'Next.js', logo:'https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/nextjs-icon.svg'},
+  {name: 'Next.js', logo:'https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png'},
   {name:'Bootstrap', logo :'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/180px-Bootstrap_logo.svg.png'},
   {name:'Git', logo :'https://www.svgrepo.com/show/353782/git-icon.svg'},
   {name: 'Node.js', logo:'https://www.svgrepo.com/show/354118/nodejs.svg'},
