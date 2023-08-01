@@ -1,7 +1,7 @@
 export const profile = [
   {
-    image: 'https://github.com/Sakshiwalode28/portfolio-sakshiwalode/blob/main/public/images/saa2.jpg?raw=true',
-    logo: 'https://github.com/Sakshiwalode28/portfolio-sakshiwalode/blob/main/public/images/logo.png?raw=true'
+    image: 'images/saa2.jpg',
+    logo: 'images/logo.png'
   }
 ]
 
