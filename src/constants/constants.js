@@ -7,21 +7,21 @@ export const profile = [
 
 export const projects = [
   {
+    title: 'Promptopia - Your Ultimate Prompt Generator!',
+    description: "Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts.\n Full-stack web application \n. Intuitive and visually appealing UI with Tailwind CSS \n CRUD functionality for seamless prompt management \n  Secure user authentication with NextAuth.js and MongoDB backend",
+    image: 'images/Screenshot (84).png',
+    tags: ['Next.js 13', 'Tailwind CSS', 'Mongodb'],
+    source: 'https://github.com/Sakshiwalode28/Promptopia',
+    visit: 'https://promptopia-coral-chi.vercel.app/',
+    id: 0,
+  },
+  {
     title: 'Teasite - Your Ultimate Tea Destination',
     description: "Teasite is a responsive multi-page website where you can buy fresh and natural tea leaves.Crafted using HTML, the website provides a seamless browsing experience with captivating CSS and JavaScript features, it offers an engaging experience for tea enthusiasts. Enjoy the beautiful lightbox popup to view images of its exquisite tea collection.",
     image: 'images/1.png',
     tags: ['HTML', 'CSS', 'Javascript', 'Bootstrap5'],
     source: 'https://github.com/Sakshiwalode28/teasite',
     visit: 'https://sakshiwalode28.github.io/teasite/',
-    id: 0,
-  },
-  {
-    title: 'Promptopia - AI prompting tool',
-    description: "Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts..",
-    image: 'images/1.png',
-    tags: ['Next.js', 'Tailwind CSS', 'Mongodb'],
-    source: 'https://github.com/Sakshiwalode28/Promptopia',
-    visit: 'https://promptopia-coral-chi.vercel.app/',
     id: 0,
   },
   // {
