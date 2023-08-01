@@ -8,7 +8,7 @@ export const profile = [
 export const projects = [
   {
     title: 'Promptopia - Your Ultimate Prompt Generator!',
-    description: "Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts.\n Full-stack web application \n. Intuitive and visually appealing UI with Tailwind CSS \n CRUD functionality for seamless prompt management \n  Secure user authentication with NextAuth.js and MongoDB backend",
+    description: "Promptopia is a full-stack web application to discover, create and share creative prompts for the AI. It offers a seamless CRUD experience (Create, Read, Update, Delete) for prompt management and secure user authentication using NextAuth.js.The application ensures fast performance, responsive design, and real-time updates for an exceptional user experience.",
     image: 'images/Screenshot (84).png',
     tags: ['Next.js 13', 'Tailwind CSS', 'Mongodb'],
     source: 'https://github.com/Sakshiwalode28/Promptopia',
