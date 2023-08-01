@@ -9,7 +9,7 @@ export const projects = [
   {
     title: 'Teasite - Your Ultimate Tea Destination',
     description: "Teasite is a responsive multi-page website where you can buy fresh and natural tea leaves.Crafted using HTML, the website provides a seamless browsing experience with captivating CSS and JavaScript features, it offers an engaging experience for tea enthusiasts. Enjoy the beautiful lightbox popup to view images of its exquisite tea collection.",
-    image: 'https://github.com/Sakshiwalode28/portfolio-sakshiwalode/blob/main/public/images/1.png?raw=true',
+    image: 'images/1.png',
     tags: ['HTML', 'CSS', 'Javascript', 'Bootstrap5'],
     source: 'https://github.com/Sakshiwalode28/teasite',
     visit: 'https://sakshiwalode28.github.io/teasite/',
@@ -18,7 +18,7 @@ export const projects = [
   {
     title: 'Promptopia - AI prompting tool',
     description: "Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts..",
-    image: 'https://github.com/Sakshiwalode28/portfolio-sakshiwalode/blob/main/public/images/1.png?raw=true',
+    image: 'images/1.png',
     tags: ['Next.js', 'Tailwind CSS', 'Mongodb'],
     source: 'https://github.com/Sakshiwalode28/Promptopia',
     visit: 'https://promptopia-coral-chi.vercel.app/',
@@ -36,7 +36,7 @@ export const projects = [
   {
     title: 'Expense-Tracker',
     description: "The Expense Tracker Web Application is a powerful and user-friendly tool designed to help you take full control of your finances. Developed using cutting-edge technologies, such as ReactJS, this application delivers a seamless and fully responsive experience across various devices, making it the ideal companion for individuals on the go.",
-      image: 'https://github.com/Sakshiwalode28/portfolio-sakshiwalode/blob/main/public/images/3.png?raw=true',
+      image: 'images/3.png',
       tags: ['React', 'CSS'],
     source: 'https://github.com/Sakshiwalode28/expense-tracker',
     visit: 'https://sakshiwalode28.github.io/expense-tracker/',
@@ -45,7 +45,7 @@ export const projects = [
   {
     title: 'PDetectAI',
     description: "PDetectAI is a machine learning model employing the K-Nearest Neighbors (KNN) algorithm developed to detect the early stages of Parkinson's Disease in patients using voice inputs. Vocal parameters are extracted using Praat software, and the calculations are performed within a Python-based model that utilizes libraries such as scikit-learn & pickle. It is a fully responsive web application hosted on Streamlit, providing a user-friendly interface for PD detection.",
-    image: 'https://github.com/Sakshiwalode28/portfolio-sakshiwalode/blob/main/public/images/4.png?raw=true',
+    image: 'images/4.png',
     tags: ['Machine Learning', 'Python', 'Streamlit'],
     source: 'https://github.com/Sakshiwalode28/Parkinson-s-Disease-Detection-System',
     visit: 'https://sakshiwalode28-parkinson-s-disease-detection-system-app-56ifd7.streamlit.app/',
