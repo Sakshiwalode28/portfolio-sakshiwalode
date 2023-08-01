@@ -15,6 +15,15 @@ export const projects = [
     visit: 'https://sakshiwalode28.github.io/teasite/',
     id: 0,
   },
+  {
+    title: 'Promptopia - AI prompting tool',
+    description: "Promptopia is an open-source AI prompting tool for the modern world to discover, create and share creative prompts..",
+    image: 'https://github.com/Sakshiwalode28/portfolio-sakshiwalode/blob/main/public/images/1.png?raw=true',
+    tags: ['Next.js', 'Tailwind CSS', 'Mongodb'],
+    source: 'https://github.com/Sakshiwalode28/Promptopia',
+    visit: 'https://promptopia-coral-chi.vercel.app/',
+    id: 0,
+  },
   // {
   //   title: 'Cryptoverse',
   //   description:"Teasite is a responsive multi-page website where you can buy fresh and natural tea leaves.Crafted using HTML, the website provides a seamless browsing experience with captivating CSS and JavaScript features, it offers an engaging experience for tea enthusiasts. Enjoy the beautiful lightbox popup to view images of its exquisite tea collection.",
