@@ -12,7 +12,7 @@ export const projects = [
     image: 'images/Screenshot (84).png',
     tags: ['Next.js 13', 'Tailwind CSS', 'Mongodb'],
     source: 'https://github.com/Sakshiwalode28/Promptopia',
-    visit: 'https://promptopia-coral-chi.vercel.app/',
+    visit: 'https://promptopia-ie14ei6lz-sakshiwalode28.vercel.app/',
     id: 0,
   },
   {
