@@ -27,7 +27,7 @@ const Header = () => (
       left: "0px",
       right: "0px",
       zIndex: "1",
-      backgroundColor: "rgb(15 22 36)",
+      backgroundColor: "rgb(15 22 36 / 27%)",
       boxShadow: "1px 1px 5px 2px black",
     }}
   >
