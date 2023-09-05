@@ -12,7 +12,7 @@ const data = [
     certi_img:'images/lco.png',
     image_link :"https://s3-ap-southeast-1.amazonaws.com/learnyst/schools/2410/certificates/53635/2972046_53635.pdf?1662885995"},
   { number: 20,
-    name: 'Complete ReactJS developer Bootcamp',
+    name: 'Programming for Everybody (Getting Started with Python)',
     by:'Coursera',   
     certi_img:'images/coursera.png',
     image_link:"https://www.coursera.org/account/accomplishments/verify/Z9FSUUFEE92L"},
